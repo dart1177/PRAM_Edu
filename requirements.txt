@@ -1,0 +1,4 @@
+Flask==3.0.3
+flask-jwt-extended==4.6.0
+pytest==8.1.1
+gunicorn==21.2.0
